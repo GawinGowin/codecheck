@@ -6,7 +6,7 @@ value = input()
 ```
 とさせられる。
 
-デバッグ時に厄介なので、画像のようにVScodeの`テスト`を用いて、デバッグしやすくした。
+デバッグ時に厄介なので、画像のようにVScodeの`テスト`及び`pytest`を用いて、デバッグしやすくした。
 
 ![image](https://user-images.githubusercontent.com/101625248/236589094-23cd4d8d-f066-4bc0-a8ba-90156e624e13.png)
 
