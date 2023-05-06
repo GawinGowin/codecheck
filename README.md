@@ -17,10 +17,8 @@ value = input()
 入力に対しての正解を記述
 
 ## サンプルコード
-- [main.py](https://github.com/GawinGowin/codecheck/tree/main/src/main.py) に記述済み 
-
-二部探索：ALDS1_4_B(https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_B&lang=ja)  
-自分なりの回答例(競技プログラミングは苦手なのでコードが正しい保証はない)
+- [main.py](https://github.com/GawinGowin/codecheck/tree/main/src/main.py) に記述済み  
+[Welcome to AtCoder](https://atcoder.jp/contests/abs/tasks/practice_1)
 
 ## 参考
 https://rurukblog.com/post/Pytest-Discovery-Error/  
